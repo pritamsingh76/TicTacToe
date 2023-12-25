@@ -1,3 +1,4 @@
+//This is tic tac toe game js files
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelectorAll("#reset-btn");
 let newGamebtn = document.querySelectorAll("#new-btn");
